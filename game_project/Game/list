@@ -1,0 +1,10 @@
+[X] Get ball moving 
+[X] Detecting when the ball hits the paddle
+[ ] Switch the direction of the y moentum when it hits the paddle
+[ ] Detect when the ball hits the wall and switch its x momentum
+[ ] Make it detect when it hits the block and switch it momentum
+[ ] Make the block disapear when it gets hit
+[ ]
+[ ]
+[ ]
+[ ]
